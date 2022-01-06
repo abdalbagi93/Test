@@ -1,6 +1,6 @@
 # Tweeter Project
 
-Tweeter is a simple, single-page Twitter clone.
+Tweeter is a simple, single-page tweeter clone.
 
 This project has been implemented with jquery, ajax, sass, express, express and timeago lbis.
 This project has two layouts, mobile ones and desktop app. it provides warning messages in two cases the user tried to post an empty tweet or too long one. it refreshes automatically to show the new tweets which will add by default to the top of the list.
